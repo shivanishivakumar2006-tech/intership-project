@@ -1,0 +1,8 @@
+Django>=5.0,<7
+Pillow
+user-agents
+reportlab
+whitenoise
+gunicorn
+# mysqlclient   # uncomment when using MySQL (needs libmysqlclient-dev)
+# requests      # only needed for real Twilio SMS
